@@ -1,0 +1,16 @@
+{
+   "characters": [
+      {
+         "name": "suman",
+         "age": 25
+      },
+      {
+         "name": "sanma",
+         "age": 26
+      },
+      {
+         "name": "compute",
+         "age": 30
+      }
+   ]
+}
